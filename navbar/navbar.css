@@ -1,0 +1,50 @@
+#navbar {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+    width: 100%;
+    background-color: black;
+    align-content: center;
+    color: white;
+    font-size: larger;
+}
+
+#space-between {
+    flex: 1;
+}
+
+#title,
+#home,
+#aboutUs,
+#profile,
+#nav-list {
+    position: relative;
+    height: 100%;
+    width: max-content;
+    margin-left: 2%;
+    margin-right: 2%;
+    align-content: center;
+}
+
+#nav-list {
+    background-color: black;
+    color: white;
+    border: none;
+    outline: none;
+    font-size: large;
+    display: none;
+}
+
+@media (orientation: portrait) and (max-width:450px) {
+
+    #home,
+    #aboutUs,
+    #profile {
+        display: none;
+    }
+
+    #nav-list {
+        display: block;
+    }
+}
