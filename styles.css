@@ -6,9 +6,14 @@ body {
     width: 100%;
 }
 
+a {
+    text-decoration: none;
+    color: black;
+}
+
 #navbar {
     position: relative;
-    height: 10%;
+    height: 8%;
     width: 100%;
     margin: 0%;
     padding: 0%;
@@ -42,7 +47,7 @@ body {
     /* Add some spacing between chartMenuTiles */
     text-align: center;
     padding: 20px;
-    height: 300px;
+    height: max-content;
     box-sizing: border-box;
     display: column;
     /* Ensure padding and border are included in the width */
@@ -57,12 +62,12 @@ body {
 
 .chartMenuTileImage {
     position: relative;
-    height: 90%;
     width: 100%;
+    flex: 1;
 }
 
 .chartMenuTileTitle {
-    height: 10%;
+    height: max-content;
     width: 100%;
 }
 
