@@ -1,0 +1,81 @@
+html,
+body {
+    margin: 0%;
+    padding: 0%;
+    height: 100%;
+    width: 100%;
+}
+
+#navbar {
+    position: relative;
+    height: 10%;
+    width: 100%;
+    margin: 0%;
+    padding: 0%;
+    background-color: black;
+}
+
+#insideContainer {
+    position: relative;
+    height: max-content;
+    width: 100%;
+    margin: 0%;
+    padding: 0%;
+}
+
+#chartContent {
+    position: relative;
+    height: max-content;
+    width: 98%;
+    margin: 0%;
+    padding: 10px;
+    border-radius: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.chartMenuTile {
+    flex: 0 0 calc(20% - 10px);
+    /* Each chartMenuTile takes up one-third of the container minus some margin */
+    margin-bottom: 20px;
+    /* Add some spacing between chartMenuTiles */
+    text-align: center;
+    padding: 20px;
+    height: 300px;
+    box-sizing: border-box;
+    display: column;
+    /* Ensure padding and border are included in the width */
+    border-radius: 10px;
+}
+
+.chartMenuTile:hover {
+    background-color: white;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+    /* Shadow effect */
+}
+
+.chartMenuTileImage {
+    position: relative;
+    height: 90%;
+    width: 100%;
+}
+
+.chartMenuTileTitle {
+    height: 10%;
+    width: 100%;
+}
+
+@media (max-width: 768px) {
+    .chartMenuTile {
+        flex: 0 0 calc(50% - 10px);
+        /* Each chartMenuTile takes up half of the container on smaller screens */
+    }
+}
+
+@media (max-width: 480px) {
+    .chartMenuTile {
+        flex: 0 0 calc(100% - 10px);
+        /* Each chartMenuTile takes up the full width on even smaller screens */
+    }
+}

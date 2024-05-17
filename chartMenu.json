@@ -1,0 +1,1058 @@
+[
+    {
+        "name": "Column with Rotated Labels",
+        "image": "https://www.amcharts.com/wp-content/uploads/2013/12/demo_7394_none-8-1024x690.png"
+    },
+    {
+        "name": "Simple Column Chart",
+        "image": "https://www.amcharts.com/wp-content/uploads/2013/12/demo_7395_none-6-1024x690.png"
+    },
+    {
+        "name": "100% Stacked Column Chart",
+        "image": "https://www.amcharts.com/wp-content/uploads/2013/12/demo_7391_none-4-1024x690.png"
+    },
+    {
+        "name": "Clustered Column Chart",
+        "image": "https://www.amcharts.com/wp-content/uploads/2020/02/demo_15270_none-3-1024x690.png"
+    },
+    {
+        "name": "Columns with Grainy Gradients",
+        "image": "https://www.amcharts.com/wp-content/uploads/2023/10/demo_17597_none-2-1024x690.png"
+    },
+    {
+        "name": "Images as Categories",
+        "image": "https://www.amcharts.com/wp-content/uploads/2019/10/demo_14665_none-5-1024x690.png"
+    },
+    {
+        "name": "Stacked and Clustered Column Chart",
+        "image": "https://www.amcharts.com/wp-content/uploads/2014/02/demo_3957_none-5-1024x690.png"
+    },
+    {
+        "name": "Stacked Column Chart",
+        "image": "https://www.amcharts.com/wp-content/uploads/2013/12/demo_7396_none-7-1024x690.png"
+    },
+    {
+        "name": "Stacked Bar Chart",
+        "image": "https://www.amcharts.com/wp-content/uploads/2013/12/demo_7388_none-4-1024x690.png"
+    },
+    {
+        "name": "Clustered Bar Chart",
+        "image": "https://www.amcharts.com/wp-content/uploads/2013/12/demo_7386_none-6-1024x690.png"
+    },
+    {
+        "name": "Columns with Moving Bullets",
+        "image": "https://www.amcharts.com/wp-content/uploads/2019/07/demo_14080_none-3-1024x690.png"
+    },
+    {
+        "name": "Bars with Moving Bullets",
+        "image": "https://www.amcharts.com/wp-content/uploads/2019/04/demo_13881_none-6-1024x690.png"
+    },
+    {
+        "name": "Drag and change column value",
+        "image": "https://www.amcharts.com/wp-content/uploads/2023/09/demo_17544_none-1-1024x690.png"
+    },
+    {
+        "name": "Bar Chart Race",
+        "image": "https://www.amcharts.com/wp-content/uploads/2020/02/demo_15121_none-7-1024x690.png"
+    },
+    {
+        "name": "Real-time Data Sorting",
+        "image": "https://www.amcharts.com/wp-content/uploads/2020/02/demo_15137_none-1-1024x690.png"
+    },
+    {
+        "name": "Sorted Bar Chart",
+        "image": "https://www.amcharts.com/wp-content/uploads/2020/05/demo_15702_none-3-1024x690.png"
+    },
+    {
+        "name": "Drag-ordering of Bars",
+        "image": "https://www.amcharts.com/wp-content/uploads/2020/10/demo_15898_none-3-1024x690.png"
+    },
+    {
+        "name": "Pictorial Column Chart",
+        "image": "https://www.amcharts.com/wp-content/uploads/2018/11/demo_11384_none-1-1024x690.png"
+    },
+    {
+        "name": "Gantt Chart",
+        "image": "https://www.amcharts.com/wp-content/uploads/2015/04/demo_5381_none-4-1024x690.png"
+    },
+    {
+        "name": "Gantt Chart with Dates",
+        "image": "https://www.amcharts.com/wp-content/uploads/2016/08/demo_8452_none-4-1024x690.png"
+    },
+    {
+        "name": "Column and Line Mix",
+        "image": "https://www.amcharts.com/wp-content/uploads/2013/11/demo_125_none-4-1024x690.png"
+    },
+    {
+        "name": "Bar and Line Chart Mix",
+        "image": "https://www.amcharts.com/wp-content/uploads/2013/11/demo_7381_none-5-1024x690.png"
+    },
+    {
+        "name": "Pareto Diagram",
+        "image": "https://www.amcharts.com/wp-content/uploads/2019/02/demo_13290_none-4-1024x690.png"
+    },
+    {
+        "name": "Stacked Bar Chart with Negative Values",
+        "image": "https://www.amcharts.com/wp-content/uploads/2015/07/demo_5762_none-5-1024x690.png"
+    },
+    {
+        "name": "Bullet Chart",
+        "image": "https://www.amcharts.com/wp-content/uploads/2013/12/demo_861_none-3-1024x690.png"
+    },
+    {
+        "name": "Layered Column Chart",
+        "image": "https://www.amcharts.com/wp-content/uploads/2014/03/demo_4074_none-3-1024x690.png"
+    },
+    {
+        "name": "Column Chart with Images on Top",
+        "image": "https://www.amcharts.com/wp-content/uploads/2014/01/demo_3282_none-3-1024x690.png"
+    },
+    {
+        "name": "Heat Map with Legend",
+        "image": "https://www.amcharts.com/wp-content/uploads/2018/11/demo_11040_none-4-1024x690.png"
+    },
+    {
+        "name": "Risk Heatmap",
+        "image": "https://www.amcharts.com/wp-content/uploads/2018/11/demo_10989_none-4-1024x690.png"
+    },
+    {
+        "name": "Step Count Chart",
+        "image": "https://www.amcharts.com/wp-content/uploads/2018/11/demo_11015_none-3-1024x690.png"
+    },
+    {
+        "name": "Curved Columns",
+        "image": "https://www.amcharts.com/wp-content/uploads/2018/11/demo_11411_none-9-1024x690.png"
+    },
+    {
+        "name": "Horizontal Dumbbell Plot",
+        "image": "https://www.amcharts.com/wp-content/uploads/2018/11/demo_12513_none-3-1024x690.png"
+    },
+    {
+        "name": "Lollipop Chart",
+        "image": "https://www.amcharts.com/wp-content/uploads/2019/10/demo_14528_none-4-1024x690.png"
+    },
+    {
+        "name": "Dumbbell Plot",
+        "image": "https://www.amcharts.com/wp-content/uploads/2018/11/demo_12503_none-4-1024x690.png"
+    },
+    {
+        "name": "Variance Indicators",
+        "image": "https://www.amcharts.com/wp-content/uploads/2019/07/demo_14172_none-4-1024x690.png"
+    },
+    {
+        "name": "Divergent Stacked Bars",
+        "image": "https://www.amcharts.com/wp-content/uploads/2019/08/demo_14221_none-4-1024x690.png"
+    },
+    {
+        "name": "Partitioned Bar Chart",
+        "image": "https://www.amcharts.com/wp-content/uploads/2019/05/demo_13938_none-5-1024x690.png"
+    },
+    {
+        "name": "Grouped and Sorted Columns",
+        "image": "https://www.amcharts.com/wp-content/uploads/2020/02/demo_15086_none-3-1024x690.png"
+    },
+    {
+        "name": "Waterfall Chart",
+        "image": "https://www.amcharts.com/wp-content/uploads/2013/12/demo_793_none-4-1024x690.png"
+    },
+    {
+        "name": "Stacked Waterfall Chart",
+        "image": "https://www.amcharts.com/wp-content/uploads/2019/10/demo_14656_none-5-1024x690.png"
+    },
+    {
+        "name": "Carbon-zero Progress",
+        "image": "https://www.amcharts.com/wp-content/uploads/2022/06/demo_17214_none-1024x690.png"
+    },
+    {
+        "name": "Floating Bar Chart",
+        "image": "https://www.amcharts.com/wp-content/uploads/2013/12/demo_7387_none-4-1024x690.png"
+    },
+    {
+        "name": "Waffle Chart",
+        "image": "https://www.amcharts.com/wp-content/uploads/2019/11/demo_14797_none-3-1024x690.png"
+    },
+    {
+        "name": "Grouped Stacks",
+        "image": "https://www.amcharts.com/wp-content/uploads/2024/04/demo_18256_none-1024x690.png"
+    },
+    {
+        "name": "Date axis with labels near minor grid lines",
+        "image": "https://www.amcharts.com/wp-content/uploads/2023/11/demo_17954_none-1-1024x690.png"
+    },
+    {
+        "name": "Line Graph",
+        "image": "https://www.amcharts.com/wp-content/uploads/2018/11/demo_12373_none-5-1024x690.png"
+    },
+    {
+        "name": "Draggable Range with a Close Button",
+        "image": "https://www.amcharts.com/wp-content/uploads/2023/09/demo_17522_none-10-1024x690.png"
+    },
+    {
+        "name": "Line Chart with Horizontal Target",
+        "image": "https://www.amcharts.com/wp-content/uploads/2022/11/demo_17271_none-2-1024x690.png"
+    },
+    {
+        "name": "Manipulate chart data with mouse",
+        "image": "https://www.amcharts.com/wp-content/uploads/2023/09/demo_17541_none-4-1024x690.png"
+    },
+    {
+        "name": "Line Chart with Range Slider",
+        "image": "https://www.amcharts.com/wp-content/uploads/2020/04/demo_15506_none-4-1024x690.png"
+    },
+    {
+        "name": "Line Chart Adding Data Every Second",
+        "image": "https://www.amcharts.com/wp-content/uploads/2021/11/demo_17055_none-1024x690.png"
+    },
+    {
+        "name": "Highlighting Line Chart Series on Legend Hover",
+        "image": "https://www.amcharts.com/wp-content/uploads/2020/01/demo_15016_none-6-1024x690.png"
+    },
+    {
+        "name": "Selecting and Marking Multiple Ranges",
+        "image": "https://www.amcharts.com/wp-content/uploads/2022/01/demo_17094_none-1-1024x690.png"
+    },
+    {
+        "name": "No-gap Date Axis",
+        "image": "https://www.amcharts.com/wp-content/uploads/2022/01/demo_17104_none-3-1024x690.png"
+    },
+    {
+        "name": "Data Grouping 50K Points",
+        "image": "https://www.amcharts.com/wp-content/uploads/2019/10/demo_14582_none-5-1024x690.png"
+    },
+    {
+        "name": "Smoothed Stacked Area",
+        "image": "https://www.amcharts.com/wp-content/uploads/2023/10/demo_17600_none-2-1024x690.png"
+    },
+    {
+        "name": "Range Chart with Different Fill Colors",
+        "image": "https://www.amcharts.com/wp-content/uploads/2019/12/demo_14862_none-10-1024x690.png"
+    },
+    {
+        "name": "Date Based Data",
+        "image": "https://www.amcharts.com/wp-content/uploads/2013/12/demo_802_none-4-1024x690.png"
+    },
+    {
+        "name": "Line Chart with Scroll and Zoom",
+        "image": "https://www.amcharts.com/wp-content/uploads/2014/01/demo_2537_none-5-1024x690.png"
+    },
+    {
+        "name": "Drawing Chart Series with Mouse or Touch",
+        "image": "https://www.amcharts.com/wp-content/uploads/2019/12/demo_14908_none-4-1024x690.png"
+    },
+    {
+        "name": "Show Percentage Change",
+        "image": "https://www.amcharts.com/wp-content/uploads/2023/09/demo_17546_none-5-1024x690.png"
+    },
+    {
+        "name": "Evenly Spaced Date Axis",
+        "image": "https://www.amcharts.com/wp-content/uploads/2021/11/demo_17063_none-1024x690.png"
+    },
+    {
+        "name": "Comparing Different Date Values Google Analytics Style",
+        "image": "https://www.amcharts.com/wp-content/uploads/2019/12/demo_14839_none-2-1024x690.png"
+    },
+    {
+        "name": "Duration on Value Axis",
+        "image": "https://www.amcharts.com/wp-content/uploads/2013/12/demo_809_none-10-1024x690.png"
+    },
+    {
+        "name": "Animated Bullet at the End of the Series",
+        "image": "https://www.amcharts.com/wp-content/uploads/2019/12/demo_14848_none-2-1024x690.png"
+    },
+    {
+        "name": "Line with Different Colors for Ups and Downs",
+        "image": "https://www.amcharts.com/wp-content/uploads/2014/06/demo_4531_none-3-1024x690.png"
+    },
+    {
+        "name": "Zoomable Value Axis",
+        "image": "https://www.amcharts.com/wp-content/uploads/2015/12/demo_6190_none-3-1024x690.png"
+    },
+    {
+        "name": "Smoothed Line Chart",
+        "image": "https://www.amcharts.com/wp-content/uploads/2013/12/demo_7398_none-6-1024x690.png"
+    },
+    {
+        "name": "Trend Lines",
+        "image": "https://www.amcharts.com/wp-content/uploads/2013/12/demo_857_none-3-1024x690.png"
+    },
+    {
+        "name": "Line with Changing Color",
+        "image": "https://www.amcharts.com/wp-content/uploads/2013/12/demo_7401_none-3-1024x690.png"
+    },
+    {
+        "name": "Stacked Area",
+        "image": "https://www.amcharts.com/wp-content/uploads/2013/11/demo_7379_none-6-1024x690.png"
+    },
+    {
+        "name": "100% Stacked Area Chart",
+        "image": "https://www.amcharts.com/wp-content/uploads/2013/11/demo_7380_none-5-1024x690.png"
+    },
+    {
+        "name": "Area with Time Based Data",
+        "image": "https://www.amcharts.com/wp-content/uploads/2013/12/demo_289_none-4-1024x690.png"
+    },
+    {
+        "name": "Range Area Chart",
+        "image": "https://www.amcharts.com/wp-content/uploads/2013/12/demo_1068_none-3-1024x690.png"
+    },
+    {
+        "name": "Step Line Chart",
+        "image": "https://www.amcharts.com/wp-content/uploads/2013/12/demo_7399_none-3-1024x690.png"
+    },
+    {
+        "name": "Step Line Without Risers",
+        "image": "https://www.amcharts.com/wp-content/uploads/2013/12/demo_7400_none-3-1024x690.png"
+    },
+    {
+        "name": "Line with Custom Bullets",
+        "image": "https://www.amcharts.com/wp-content/uploads/2013/12/demo_7402_none-4-1024x690.png"
+    },
+    {
+        "name": "Vertical Line Chart",
+        "image": "https://www.amcharts.com/wp-content/uploads/2013/12/demo_829_none-4-1024x690.png"
+    },
+    {
+        "name": "Chart with Gaps in Data",
+        "image": "https://www.amcharts.com/wp-content/uploads/2013/12/demo_798_none-7-1024x690.png"
+    },
+    {
+        "name": "Reversed Value Axis",
+        "image": "https://www.amcharts.com/wp-content/uploads/2013/12/demo_843_none-4-1024x690.png"
+    },
+    {
+        "name": "Error Chart",
+        "image": "https://www.amcharts.com/wp-content/uploads/2013/12/demo_7397_none-2-1024x690.png"
+    },
+    {
+        "name": "Multiple Value Axes",
+        "image": "https://www.amcharts.com/wp-content/uploads/2013/12/demo_839_none-4-1024x690.png"
+    },
+    {
+        "name": "Multiple Date Axes",
+        "image": "https://www.amcharts.com/wp-content/uploads/2018/11/demo_10888_none-5-1024x690.png"
+    },
+    {
+        "name": "Logarithmic Scale",
+        "image": "https://www.amcharts.com/wp-content/uploads/2013/12/demo_834_none-3-1024x690.png"
+    },
+    {
+        "name": "Control Chart",
+        "image": "https://www.amcharts.com/wp-content/uploads/2020/04/demo_15559_none-2-1024x690.png"
+    },
+    {
+        "name": "Mixed Daily and Intra-Day Chart",
+        "image": "https://www.amcharts.com/wp-content/uploads/2014/01/demo_3285_none-1-1024x690.png"
+    },
+    {
+        "name": "Line with Different Negative Color",
+        "image": "https://www.amcharts.com/wp-content/uploads/2013/11/demo_7382_none-3-1024x690.png"
+    },
+    {
+        "name": "Live Order Book / Depth Chart",
+        "image": "https://www.amcharts.com/wp-content/uploads/2017/09/demo_9306_none-3-1024x690.png"
+    },
+    {
+        "name": "Live Data",
+        "image": "https://www.amcharts.com/wp-content/uploads/2018/11/demo_11393_none-4-1024x690.png"
+    },
+    {
+        "name": "Divergent Lines",
+        "image": "https://www.amcharts.com/wp-content/uploads/2020/10/demo_15889_none-2-1024x690.png"
+    },
+    {
+        "name": "Stream / ThemeRiver Chart",
+        "image": "https://www.amcharts.com/wp-content/uploads/2020/03/demo_15345_none-3-1024x690.png"
+    },
+    {
+        "name": "Process Control Chart",
+        "image": "https://www.amcharts.com/wp-content/uploads/2023/05/demo_17428_none-1024x690.png"
+    },
+    {
+        "name": "Pie Chart",
+        "image": "https://www.amcharts.com/wp-content/uploads/2020/01/demo_15723_none-1024x690.png"
+    },
+    {
+        "name": "Grainy Gradient Pie",
+        "image": "https://www.amcharts.com/wp-content/uploads/2023/10/demo_17589_none-3-1024x690.png"
+    },
+    {
+        "name": "Dragging Pie Slices",
+        "image": "https://www.amcharts.com/wp-content/uploads/2018/11/demo_10980_none-9-1024x690.png"
+    },
+    {
+        "name": "Simple Pie Chart",
+        "image": "https://www.amcharts.com/wp-content/uploads/2013/12/demo_7403_none-2-1024x690.png"
+    },
+    {
+        "name": "Variable-Radius Nested Donut Chart",
+        "image": "https://www.amcharts.com/wp-content/uploads/2020/01/demo_15028_none-2-1024x690.png"
+    },
+    {
+        "name": "Two-Level Pie Chart",
+        "image": "https://www.amcharts.com/wp-content/uploads/2020/08/demo_15817_none-2-1024x690.png"
+    },
+    {
+        "name": "Donut with Radial Gradient",
+        "image": "https://www.amcharts.com/wp-content/uploads/2015/12/demo_6191_none-2-1024x690.png"
+    },
+    {
+        "name": "Animated Time-Line Pie Chart",
+        "image": "https://www.amcharts.com/wp-content/uploads/2016/03/demo_6559_none-1-1024x690.png"
+    },
+    {
+        "name": "Donut Chart",
+        "image": "https://www.amcharts.com/wp-content/uploads/2013/11/demo_129_none-1-1024x690.png"
+    },
+    {
+        "name": "Nested Donut Chart",
+        "image": "https://www.amcharts.com/wp-content/uploads/2018/11/demo_11091_none-1-1024x690.png"
+    },
+    {
+        "name": "Pie Chart with Legend",
+        "image": "https://www.amcharts.com/wp-content/uploads/2013/12/demo_7406_none-4-1024x690.png"
+    },
+    {
+        "name": "Pie Chart with Broken Down Slices",
+        "image": "https://www.amcharts.com/wp-content/uploads/2014/01/demo_3293_none-1-1024x690.png"
+    },
+    {
+        "name": "Variable Radius Pie Chart",
+        "image": "https://www.amcharts.com/wp-content/uploads/2018/11/demo_11060_none-1-1024x690.png"
+    },
+    {
+        "name": "Semi-Circle Pie Chart",
+        "image": "https://www.amcharts.com/wp-content/uploads/2018/11/demo_11070_none-1-1024x690.png"
+    },
+    {
+        "name": "Pie of a Pie (Exploding Pie Chart)",
+        "image": "https://www.amcharts.com/wp-content/uploads/2019/07/demo_14106_none-8-1024x690.png"
+    },
+    {
+        "name": "Variable-radius Nested Pie",
+        "image": "https://www.amcharts.com/wp-content/uploads/2023/03/demo_17389_none-1024x690.png"
+    },
+    {
+        "name": "Motion Chart",
+        "image": "https://www.amcharts.com/wp-content/uploads/2021/11/demo_17049_none-2-1024x690.png"
+    },
+    {
+        "name": "Scatter plot with tens of thousands points",
+        "image": "https://www.amcharts.com/wp-content/uploads/2023/02/demo_17368_none-1024x690.png"
+    },
+    {
+        "name": "Bubble Chart",
+        "image": "https://www.amcharts.com/wp-content/uploads/2013/12/demo_602_none-3-1024x690.png"
+    },
+    {
+        "name": "XY Chart with Date-Based Axis",
+        "image": "https://www.amcharts.com/wp-content/uploads/2015/04/demo_5439_none-2-1024x690.png"
+    },
+    {
+        "name": "Bubble-Based Heat Map",
+        "image": "https://www.amcharts.com/wp-content/uploads/2018/11/demo_11162_none-2-1024x690.png"
+    },
+    {
+        "name": "Animated XY Bubble Timeline chart",
+        "image": "https://www.amcharts.com/wp-content/uploads/2019/12/demo_14891_none-2-1024x690.png"
+    },
+    {
+        "name": "Bubble Chart with Pie Bullets",
+        "image": "https://www.amcharts.com/wp-content/uploads/2023/12/demo_17971_none-1024x690.png"
+    },
+    {
+        "name": "XY Chart with Fills to the Axis",
+        "image": "https://www.amcharts.com/wp-content/uploads/2014/06/demo_4533_none-2-1024x690.png"
+    },
+    {
+        "name": "Zoomable Bubble Chart",
+        "image": "https://www.amcharts.com/wp-content/uploads/2013/12/demo_775_none-2-1024x690.png"
+    },
+    {
+        "name": "Scatter Chart",
+        "image": "https://www.amcharts.com/wp-content/uploads/2013/12/demo_594_none-2-1024x690.png"
+    },
+    {
+        "name": "XY Error Chart",
+        "image": "https://www.amcharts.com/wp-content/uploads/2013/12/demo_789_none-1-1024x690.png"
+    },
+    {
+        "name": "XY Chart with Value-Based Line Graphs",
+        "image": "https://www.amcharts.com/wp-content/uploads/2016/10/demo_8687_none-2-1024x690.png"
+    },
+    {
+        "name": "Irregular Interval XY",
+        "image": "https://www.amcharts.com/wp-content/uploads/2020/05/demo_15670_none-1-1024x690.png"
+    },
+    {
+        "name": "Beeswarm",
+        "image": "https://www.amcharts.com/wp-content/uploads/2023/08/demo_17506_none-1-1024x690.png"
+    },
+    {
+        "name": "World Map With Clustered Points",
+        "image": "https://www.amcharts.com/wp-content/uploads/2023/11/demo_17715_none-1024x690.png"
+    },
+    {
+        "name": "Map with Animated Bubbles",
+        "image": "https://www.amcharts.com/wp-content/uploads/2022/06/demo_17212_none-1024x690.png"
+    },
+    {
+        "name": "Animations Along Lines",
+        "image": "https://www.amcharts.com/wp-content/uploads/2015/09/demo_5975_none-2-1024x690.png"
+    },
+    {
+        "name": "Rotate Globe to a Selected Country",
+        "image": "https://www.amcharts.com/wp-content/uploads/2021/11/demo_17032_none-1-1024x690.png"
+    },
+    {
+        "name": "Multi-Series Map",
+        "image": "https://www.amcharts.com/wp-content/uploads/2018/09/demo_10380_none-3-1024x690.png"
+    },
+    {
+        "name": "Rotating Globe with Circles",
+        "image": "https://www.amcharts.com/wp-content/uploads/2019/04/demo_13710_none-1-1024x690.png"
+    },
+    {
+        "name": "Zooming to Countries Map",
+        "image": "https://www.amcharts.com/wp-content/uploads/2013/12/demo_913_none-6-1024x690.png"
+    },
+    {
+        "name": "Pacific-Centered Map",
+        "image": "https://www.amcharts.com/wp-content/uploads/2019/02/demo_13509_none-4-1024x690.png"
+    },
+    {
+        "name": "Map Using D3 Projections",
+        "image": "https://www.amcharts.com/wp-content/uploads/2019/03/demo_13810_none-4-1024x690.png"
+    },
+    {
+        "name": "World Time Zone Map",
+        "image": "https://www.amcharts.com/wp-content/uploads/2020/03/demo_15361_none-2-1024x690.png"
+    },
+    {
+        "name": "Map with Curved Lines",
+        "image": "https://www.amcharts.com/wp-content/uploads/2015/06/demo_5711_none-4-1024x690.png"
+    },
+    {
+        "name": "Day and Night World Map",
+        "image": "https://www.amcharts.com/wp-content/uploads/2018/12/demo_12837_none-11-1024x690.png"
+    },
+    {
+        "name": "Map with Pulsating Bullets",
+        "image": "https://www.amcharts.com/wp-content/uploads/2020/02/demo_15169_none-2-1024x690.png"
+    },
+    {
+        "name": "Drill-Down to Countries",
+        "image": "https://www.amcharts.com/wp-content/uploads/2019/10/demo_14721_none-1-1024x690.png"
+    },
+    {
+        "name": "Map with Patterns",
+        "image": "https://www.amcharts.com/wp-content/uploads/2013/12/demo_910_none-2-1024x690.png"
+    },
+    {
+        "name": "Approximate Working Hours Map",
+        "image": "https://www.amcharts.com/wp-content/uploads/2020/02/demo_15257_none-3-1024x690.png"
+    },
+    {
+        "name": "Capitals Map",
+        "image": "https://www.amcharts.com/wp-content/uploads/2013/11/demo_122_none-7-1024x690.png"
+    },
+    {
+        "name": "Flight Routes Map",
+        "image": "https://www.amcharts.com/wp-content/uploads/2013/11/demo_121_none-4-1024x690.png"
+    },
+    {
+        "name": "Changing Map Projection",
+        "image": "https://www.amcharts.com/wp-content/uploads/2016/02/demo_6417_none-3-1024x690.png"
+    },
+    {
+        "name": "Location-Sensitive Map",
+        "image": "https://www.amcharts.com/wp-content/uploads/2013/11/demo_6370_none-3-1024x690.png"
+    },
+    {
+        "name": "US Heat (Choropleth) Map",
+        "image": "https://www.amcharts.com/wp-content/uploads/2013/11/demo_120_none-2-1024x690.png"
+    },
+    {
+        "name": "Grouped Countries Map",
+        "image": "https://www.amcharts.com/wp-content/uploads/2013/11/demo_119_none-3-1024x690.png"
+    },
+    {
+        "name": "Map with Bubbles",
+        "image": "https://www.amcharts.com/wp-content/uploads/2014/02/demo_3943_none-4-1024x690.png"
+    },
+    {
+        "name": "Drill-Down Map",
+        "image": "https://www.amcharts.com/wp-content/uploads/2013/11/demo_118_none-4-1024x690.png"
+    },
+    {
+        "name": "Selecting Multiple Areas Map",
+        "image": "https://www.amcharts.com/wp-content/uploads/2014/01/demo_3341_none-6-1024x690.png"
+    },
+    {
+        "name": "Map Image Drill-Down",
+        "image": "https://www.amcharts.com/wp-content/uploads/2019/05/demo_13953_none-1-1024x690.png"
+    },
+    {
+        "name": "Weather Map",
+        "image": "https://www.amcharts.com/wp-content/uploads/2014/10/demo_4930_none-3-1024x690.png"
+    },
+    {
+        "name": "Map with Dynamic Pie Charts",
+        "image": "https://www.amcharts.com/wp-content/uploads/2017/02/demo_8923_none-1-1024x690.png"
+    },
+    {
+        "name": "Rotating Globe",
+        "image": "https://www.amcharts.com/wp-content/uploads/2018/11/demo_11700_none-5-1024x690.png"
+    },
+    {
+        "name": "Map with Sized Pin Bullets",
+        "image": "https://www.amcharts.com/wp-content/uploads/2020/08/demo_15801_none-1-1024x690.png"
+    },
+    {
+        "name": "Map Timeline",
+        "image": "https://www.amcharts.com/wp-content/uploads/2022/01/demo_17096_none-1024x690.png"
+    },
+    {
+        "name": "U.S. Congressional Districts",
+        "image": "https://www.amcharts.com/wp-content/uploads/2022/10/demo_17256_none-1024x690.png"
+    },
+    {
+        "name": "Drill-down Congressional Map",
+        "image": "https://www.amcharts.com/wp-content/uploads/2022/10/demo_17259_none-1-1024x690.png"
+    },
+    {
+        "name": "Map with Animated Lines",
+        "image": "https://www.amcharts.com/wp-content/uploads/2023/06/demo_17447_none-1024x690.png"
+    },
+    {
+        "name": "Candlestick Chart",
+        "image": "https://www.amcharts.com/wp-content/uploads/2013/12/demo_854_none-9-1024x690.png"
+    },
+    {
+        "name": "Professional Candlesticks",
+        "image": "https://www.amcharts.com/wp-content/uploads/2014/08/demo_4772_none-4-1024x690.png"
+    },
+    {
+        "name": "On-Demand Data Loading",
+        "image": "https://www.amcharts.com/wp-content/uploads/2021/11/demo_17065_none-2-1024x690.png"
+    },
+    {
+        "name": "Stock Chart Candlesticks",
+        "image": "https://www.amcharts.com/wp-content/uploads/2019/10/demo_14610_none-6-1024x690.png"
+    },
+    {
+        "name": "Box Plot Chart",
+        "image": "https://www.amcharts.com/wp-content/uploads/2019/10/demo_14494_none-3-1024x690.png"
+    },
+    {
+        "name": "OHLC Chart",
+        "image": "https://www.amcharts.com/wp-content/uploads/2013/12/demo_846_none-3-1024x690.png"
+    },
+    {
+        "name": "Stock Chart",
+        "image": "https://www.amcharts.com/wp-content/uploads/2019/10/demo_14592_none-11-1024x690.png"
+    },
+    {
+        "name": "Stock Chart Comparing Prices",
+        "image": "https://www.amcharts.com/wp-content/uploads/2019/10/demo_14593_none-8-1024x690.png"
+    },
+    {
+        "name": "Stock Chart with Bollinger Bands Indicator",
+        "image": "https://www.amcharts.com/wp-content/uploads/2022/05/demo_17197_none-3-1024x690.png"
+    },
+    {
+        "name": "Stock Chart with Relative Strength Index",
+        "image": "https://www.amcharts.com/wp-content/uploads/2022/05/demo_17200_none-1-1024x690.png"
+    },
+    {
+        "name": "Stock Chart with Volume Profile",
+        "image": "https://www.amcharts.com/wp-content/uploads/2023/12/demo_17982_none-1024x690.png"
+    },
+    {
+        "name": "Changing Data Granularity",
+        "image": "https://www.amcharts.com/wp-content/uploads/2022/04/demo_17172_none-1-1024x690.png"
+    },
+    {
+        "name": "Stock Data Grouping",
+        "image": "https://www.amcharts.com/wp-content/uploads/2022/04/demo_17173_none-3-1024x690.png"
+    },
+    {
+        "name": "Stock Intraday Data",
+        "image": "https://www.amcharts.com/wp-content/uploads/2022/04/demo_17174_none-2-1024x690.png"
+    },
+    {
+        "name": "Live Stock Data",
+        "image": "https://www.amcharts.com/wp-content/uploads/2022/04/demo_17175_none-2-1024x690.png"
+    },
+    {
+        "name": "Separate Volume Panel",
+        "image": "https://www.amcharts.com/wp-content/uploads/2022/04/demo_17176_none-3-1024x690.png"
+    },
+    {
+        "name": "Gauge with Bands",
+        "image": "https://www.amcharts.com/wp-content/uploads/2020/02/demo_15190_none-6-1024x690.png"
+    },
+    {
+        "name": "Gauge with Gradient Fill",
+        "image": "https://www.amcharts.com/wp-content/uploads/2019/07/demo_14051_none-1-1024x690.png"
+    },
+    {
+        "name": "Yes and No Gauge",
+        "image": "https://www.amcharts.com/wp-content/uploads/2022/02/demo_17128_none-1024x690.png"
+    },
+    {
+        "name": "Clock",
+        "image": "https://www.amcharts.com/wp-content/uploads/2013/12/demo_7389_none-2-1024x690.png"
+    },
+    {
+        "name": "Clock with Two Faces",
+        "image": "https://www.amcharts.com/wp-content/uploads/2013/12/demo_7390_none-2-1024x690.png"
+    },
+    {
+        "name": "Animated Gauge",
+        "image": "https://www.amcharts.com/wp-content/uploads/2016/08/demo_8418_none-1-1024x690.png"
+    },
+    {
+        "name": "Angular Gauge",
+        "image": "https://www.amcharts.com/wp-content/uploads/2013/12/demo_7384_none-2-1024x690.png"
+    },
+    {
+        "name": "Solid Gauge",
+        "image": "https://www.amcharts.com/wp-content/uploads/2016/03/demo_6604_none-3-1024x690.png"
+    },
+    {
+        "name": "Angular Gauge with Two Axes",
+        "image": "https://www.amcharts.com/wp-content/uploads/2013/12/demo_274_none-1-1024x690.png"
+    },
+    {
+        "name": "Multi-Part Gauge",
+        "image": "https://www.amcharts.com/wp-content/uploads/2018/11/demo_11402_none-1-1024x690.png"
+    },
+    {
+        "name": "Compass Chart",
+        "image": "https://www.amcharts.com/wp-content/uploads/2020/08/demo_15831_none-1-1024x690.png"
+    },
+    {
+        "name": "Radar Chart Visualizing Yearly Activities",
+        "image": "https://www.amcharts.com/wp-content/uploads/2020/05/demo_15637_none-1-1024x690.png"
+    },
+    {
+        "name": "Radial Histogram",
+        "image": "https://www.amcharts.com/wp-content/uploads/2018/11/demo_12322_none-3-1024x690.png"
+    },
+    {
+        "name": "Zoomable Radar",
+        "image": "https://www.amcharts.com/wp-content/uploads/2018/11/demo_11313_none-4-1024x690.png"
+    },
+    {
+        "name": "Polar Area Chart",
+        "image": "https://www.amcharts.com/wp-content/uploads/2018/11/demo_12356_none-2-1024x690.png"
+    },
+    {
+        "name": "Radar Heat Map",
+        "image": "https://www.amcharts.com/wp-content/uploads/2020/02/demo_15181_none-1-1024x690.png"
+    },
+    {
+        "name": "Radial Line Graph",
+        "image": "https://www.amcharts.com/wp-content/uploads/2018/11/demo_12382_none-2-1024x690.png"
+    },
+    {
+        "name": "Radar Chart",
+        "image": "https://www.amcharts.com/wp-content/uploads/2013/12/demo_7409_none-3-1024x690.png"
+    },
+    {
+        "name": "Radar Timeline",
+        "image": "https://www.amcharts.com/wp-content/uploads/2018/11/demo_11251_none-10-1024x690.png"
+    },
+    {
+        "name": "Flower Chart",
+        "image": "https://www.amcharts.com/wp-content/uploads/2020/05/demo_15658_none-2-1024x690.png"
+    },
+    {
+        "name": "Live Sorting of Radar Columns",
+        "image": "https://www.amcharts.com/wp-content/uploads/2020/02/demo_15156_none-6-1024x690.png"
+    },
+    {
+        "name": "Polar Chart",
+        "image": "https://www.amcharts.com/wp-content/uploads/2013/12/demo_7408_none-2-1024x690.png"
+    },
+    {
+        "name": "Polar Scatter",
+        "image": "https://www.amcharts.com/wp-content/uploads/2016/03/demo_6606_none-3-1024x690.png"
+    },
+    {
+        "name": "Interactive Wheel of Life",
+        "image": "https://www.amcharts.com/wp-content/uploads/2019/10/demo_14707_none-1-1024x690.png"
+    },
+    {
+        "name": "Stacked Area Radar",
+        "image": "https://www.amcharts.com/wp-content/uploads/2018/11/demo_11242_none-4-1024x690.png"
+    },
+    {
+        "name": "Radar with Date Axis",
+        "image": "https://www.amcharts.com/wp-content/uploads/2018/11/demo_11260_none-3-1024x690.png"
+    },
+    {
+        "name": "Radial Bar Chart",
+        "image": "https://www.amcharts.com/wp-content/uploads/2018/11/demo_11287_none-2-1024x690.png"
+    },
+    {
+        "name": "Variable-Radius Radar",
+        "image": "https://www.amcharts.com/wp-content/uploads/2018/11/demo_11304_none-3-1024x690.png"
+    },
+    {
+        "name": "Collapsible Force-Directed Tree",
+        "image": "https://www.amcharts.com/wp-content/uploads/2019/04/demo_13845_none-1-1024x690.png"
+    },
+    {
+        "name": "Force-Directed Network",
+        "image": "https://www.amcharts.com/wp-content/uploads/2019/04/demo_13855_none-1-1024x690.png"
+    },
+    {
+        "name": "Packed Circle Chart",
+        "image": "https://www.amcharts.com/wp-content/uploads/2019/04/demo_13856_none-3-1024x690.png"
+    },
+    {
+        "name": "Rectangular Drill-down Voronoi Tree Map",
+        "image": "https://www.amcharts.com/wp-content/uploads/2023/07/demo_17468_none-1024x690.png"
+    },
+    {
+        "name": "Drill-Down Sunburst Chart",
+        "image": "https://www.amcharts.com/wp-content/uploads/2020/03/demo_15484_none-1024x690.png"
+    },
+    {
+        "name": "Horizontal Partition Chart",
+        "image": "https://www.amcharts.com/wp-content/uploads/2021/11/demo_17021_none-1-1024x690.png"
+    },
+    {
+        "name": "Vertical Partition Chart",
+        "image": "https://www.amcharts.com/wp-content/uploads/2021/11/demo_17023_none-1024x690.png"
+    },
+    {
+        "name": "Tree Chart",
+        "image": "https://www.amcharts.com/wp-content/uploads/2021/11/demo_17025_none-2-1024x690.png"
+    },
+    {
+        "name": "Force-Directed Adding Links",
+        "image": "https://www.amcharts.com/wp-content/uploads/2019/05/demo_13974_none-2-1024x690.png"
+    },
+    {
+        "name": "Zoomable Force Directed Tree",
+        "image": "https://www.amcharts.com/wp-content/uploads/2024/02/demo_18106_none-1024x690.png"
+    },
+    {
+        "name": "Zoomable Multilevel Tree Map",
+        "image": "https://www.amcharts.com/wp-content/uploads/2019/02/demo_13525_none-3-1024x690.png"
+    },
+    {
+        "name": "Sunburst Chart",
+        "image": "https://www.amcharts.com/wp-content/uploads/2019/02/demo_13302_none-3-1024x690.png"
+    },
+    {
+        "name": "Single-Level Packed Circles",
+        "image": "https://www.amcharts.com/wp-content/uploads/2023/11/demo_17779_none-2-1024x690.png"
+    },
+    {
+        "name": "Force-Directed Tree",
+        "image": "https://www.amcharts.com/wp-content/uploads/2019/04/demo_13836_none-3-1024x690.png"
+    },
+    {
+        "name": "Sunburst Flavor Wheel",
+        "image": "https://www.amcharts.com/wp-content/uploads/2021/11/demo_17057_none-2-1024x690.png"
+    },
+    {
+        "name": "Simple Treemap",
+        "image": "https://www.amcharts.com/wp-content/uploads/2018/11/demo_11629_none-1-1024x690.png"
+    },
+    {
+        "name": "Drill-Down Treemap",
+        "image": "https://www.amcharts.com/wp-content/uploads/2018/11/demo_11638_none-3-1024x690.png"
+    },
+    {
+        "name": "Dynamic Data Updates on Treemap",
+        "image": "https://www.amcharts.com/wp-content/uploads/2018/11/demo_11656_none-2-1024x690.png"
+    },
+    {
+        "name": "Drill-down, zoomable Voronoi Treemap",
+        "image": "https://www.amcharts.com/wp-content/uploads/2023/07/demo_17463_none-1-1024x690.png"
+    },
+    {
+        "name": "Force-Directed Tree with Animated Bullets",
+        "image": "https://www.amcharts.com/wp-content/uploads/2024/04/demo_18276_none-1-1024x690.png"
+    },
+    {
+        "name": "Sankey Diagram",
+        "image": "https://www.amcharts.com/wp-content/uploads/2018/11/demo_10752_none-2-1024x690.png"
+    },
+    {
+        "name": "Vertical Sankey Diagram",
+        "image": "https://www.amcharts.com/wp-content/uploads/2018/11/demo_10763_none-3-1024x690.png"
+    },
+    {
+        "name": "Traceable Sankey Diagram",
+        "image": "https://www.amcharts.com/wp-content/uploads/2019/07/demo_14061_none-4-1024x690.png"
+    },
+    {
+        "name": "Directed Chord Diagram",
+        "image": "https://www.amcharts.com/wp-content/uploads/2018/11/demo_12528_none-4-1024x690.png"
+    },
+    {
+        "name": "Chord Diagram with Animated Bullets",
+        "image": "https://www.amcharts.com/wp-content/uploads/2018/12/demo_12795_none-2-1024x690.png"
+    },
+    {
+        "name": "Chord Diagram",
+        "image": "https://www.amcharts.com/wp-content/uploads/2018/11/demo_11269_none-2-1024x690.png"
+    },
+    {
+        "name": "Animated Sankey Diagram",
+        "image": "https://www.amcharts.com/wp-content/uploads/2018/11/demo_10780_none-2-1024x690.png"
+    },
+    {
+        "name": "Non-Ribbon Chord diagram",
+        "image": "https://www.amcharts.com/wp-content/uploads/2018/11/demo_11278_none-5-1024x690.png"
+    },
+    {
+        "name": "Horizontal Arc Diagram",
+        "image": "https://www.amcharts.com/wp-content/uploads/2023/07/demo_17459_none-1024x690.png"
+    },
+    {
+        "name": "Vertical Arc Diagram",
+        "image": "https://www.amcharts.com/wp-content/uploads/2023/07/demo_17460_none-1024x690.png"
+    },
+    {
+        "name": "Pictorial Fraction Chart",
+        "image": "https://www.amcharts.com/wp-content/uploads/2018/11/demo_12331_none-4-1024x690.png"
+    },
+    {
+        "name": "Pictorial Chart",
+        "image": "https://www.amcharts.com/wp-content/uploads/2019/02/demo_13557_none-4-1024x690.png"
+    },
+    {
+        "name": "Pyramid Chart",
+        "image": "https://www.amcharts.com/wp-content/uploads/2013/12/demo_7407_none-2-1024x690.png"
+    },
+    {
+        "name": "Funnel with Gradient Fill",
+        "image": "https://www.amcharts.com/wp-content/uploads/2018/11/demo_11465_none-2-1024x690.png"
+    },
+    {
+        "name": "Funnel Chart",
+        "image": "https://www.amcharts.com/wp-content/uploads/2013/11/demo_123_none-1-1024x690.png"
+    },
+    {
+        "name": "Horizontal Funnel",
+        "image": "https://www.amcharts.com/wp-content/uploads/2018/11/demo_11474_none-2-1024x690.png"
+    },
+    {
+        "name": "Pictorial Stacked Chart",
+        "image": "https://www.amcharts.com/wp-content/uploads/2018/11/demo_11421_none-1-1024x690.png"
+    },
+    {
+        "name": "Horizontal Pictorial Chart",
+        "image": "https://www.amcharts.com/wp-content/uploads/2018/11/demo_11446_none-1-1024x690.png"
+    },
+    {
+        "name": "Population Pyramid",
+        "image": "https://www.amcharts.com/wp-content/uploads/2018/11/demo_12560_none-8-1024x690.png"
+    },
+    {
+        "name": "Word Cloud",
+        "image": "https://www.amcharts.com/wp-content/uploads/2019/02/demo_13349_none-8-1024x690.png"
+    },
+    {
+        "name": "Changing Data of Word Cloud",
+        "image": "https://www.amcharts.com/wp-content/uploads/2019/02/demo_13350_none-5-1024x690.png"
+    },
+    {
+        "name": "Annotating Charts",
+        "image": "https://www.amcharts.com/wp-content/uploads/2019/07/demo_14131_none-4-1024x690.png"
+    },
+    {
+        "name": "Historical Population Pyramid",
+        "image": "https://www.amcharts.com/wp-content/uploads/2019/03/demo_13622_none-3-1024x690.png"
+    },
+    {
+        "name": "Sentence cloud",
+        "image": "https://www.amcharts.com/wp-content/uploads/2022/05/demo_17209_none-1024x690.png"
+    },
+    {
+        "name": "Tile map",
+        "image": "https://www.amcharts.com/wp-content/uploads/2022/09/demo_17246_none-1024x690.png"
+    },
+    {
+        "name": "Honeycomb tile map",
+        "image": "https://www.amcharts.com/wp-content/uploads/2022/09/demo_17248_none-1024x690.png"
+    },
+    {
+        "name": "Vertically Stacked Axes Chart",
+        "image": "https://www.amcharts.com/wp-content/uploads/2019/02/demo_13177_none-4-1024x690.png"
+    },
+    {
+        "name": "Pictogram",
+        "image": "https://www.amcharts.com/wp-content/uploads/2022/11/demo_17274_none-1024x690.png"
+    },
+    {
+        "name": "Infographic",
+        "image": "https://www.amcharts.com/wp-content/uploads/2022/11/demo_17276_none-1024x690.png"
+    },
+    {
+        "name": "Venn Diagram with Patterns",
+        "image": "https://www.amcharts.com/wp-content/uploads/2020/02/demo_15233_none-1-1024x690.png"
+    },
+    {
+        "name": "Strip Plot",
+        "image": "https://www.amcharts.com/wp-content/uploads/2021/11/demo_17028_none-1024x690.png"
+    },
+    {
+        "name": "Complex Venn Diagram",
+        "image": "https://www.amcharts.com/wp-content/uploads/2021/11/demo_17030_none-1-1024x690.png"
+    },
+    {
+        "name": "Horizontally Stacked Axes",
+        "image": "https://www.amcharts.com/wp-content/uploads/2019/02/demo_13205_none-3-1024x690.png"
+    },
+    {
+        "name": "Tag Cloud",
+        "image": "https://www.amcharts.com/wp-content/uploads/2019/02/demo_13539_none-3-1024x690.png"
+    },
+    {
+        "name": "Hybrid Drill-Down Pie/Bar Chart",
+        "image": "https://www.amcharts.com/wp-content/uploads/2020/09/demo_15866_none-3-1024x690.png"
+    },
+    {
+        "name": "Mekko Chart",
+        "image": "https://www.amcharts.com/wp-content/uploads/2020/10/demo_15880_none-1-1024x690.png"
+    },
+    {
+        "name": "Combined Bullet/Column and Line Graphs with Multiple Value Axes",
+        "image": "https://www.amcharts.com/wp-content/uploads/2015/08/demo_5893_none-3-1024x690.png"
+    },
+    {
+        "name": "Micro Charts & Sparklines",
+        "image": "https://www.amcharts.com/wp-content/uploads/2013/12/microcharts-1024x690.png"
+    },
+    {
+        "name": "Exporting Chart to Image",
+        "image": "https://www.amcharts.com/wp-content/uploads/2014/01/demo_1597_none-3-1024x690.png"
+    },
+    {
+        "name": "Venn Diagram",
+        "image": "https://www.amcharts.com/wp-content/uploads/2020/02/demo_15215_none-2-1024x690.png"
+    },
+    {
+        "name": "Spectrum Chart",
+        "image": "https://www.amcharts.com/wp-content/uploads/2019/12/demo_14926_none-1-1024x690.png"
+    },
+    {
+        "name": "Progress Chart",
+        "image": "https://www.amcharts.com/wp-content/uploads/2020/10/demo_15908_none-1-1024x690.png"
+    },
+    {
+        "name": "Forest Plot",
+        "image": "https://www.amcharts.com/wp-content/uploads/2020/04/demo_15549_none-5-1024x690.png"
+    },
+    {
+        "name": "Range Bullet Chart",
+        "image": "https://www.amcharts.com/wp-content/uploads/2021/11/demo_17077_none-1024x690.png"
+    }
+]
