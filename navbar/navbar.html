@@ -1,0 +1,18 @@
+<link rel="stylesheet" type="text/css" href="../chartTile/chartTile.css">
+<script src="../chartTile/chartTile.js"></script>
+<link rel="stylesheet" type="text/css" href="../aboutUs/aboutUS.css">
+<script src="../aboutUs/aboutUs.js"></script>
+<div id="navbar">
+    <div id="title">Vizionary</div>
+    <div id="home" onclick="home()">Home</div>
+    <div id="aboutUs" onclick="aboutUs()">AboutUS</div>
+    <div id="space-between"></div>
+    <div id="profile" onclick="profile()"><span class="material-symbols-outlined">account_circle</span></div>
+    <select id="nav-list" onchange="renderNavComponents(this.value)">
+        <options id="nav-list-menu">
+            <option value="home">Home</option>
+            <option value="aboutUs">AboutUS</option>
+            <option value="profile">Profile</option>
+        </options>
+    </select>
+</div>

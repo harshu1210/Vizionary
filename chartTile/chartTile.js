@@ -1,7 +1,10 @@
 
 document.addEventListener('DOMContentLoaded', function() {
-    const navbarElement = document.getElementById('chartContent');
-fetch('chartMenu.json')
+    loadingChartTiles();
+});
+
+function loadingChartTiles(){
+    fetch('chartMenu.json')
     .then(response => response.json())
     .then(data => {
         let content = document.getElementById('chartContent')
@@ -28,4 +31,4 @@ fetch('chartMenu.json')
     .catch(error => {
         console.error('Error fetching JSON:', error);
     });
-});
+}
