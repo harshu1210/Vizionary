@@ -1,26 +1,17 @@
+document.addEventListener('DOMContentLoaded', function () {
+    const insideContainer = document.getElementById('insideContainer');
+    const navbarContainer = document.getElementById('navbarContainer');
 
-fetch('chartMenu.json')
-    .then(response => response.json())
-    .then(data => {
-        let content = document.getElementById('chartContent')
-        for (let i = 0; i < data.length; i++) {
-            let link = document.createElement("a")
-            link.setAttribute("href", data[i].href)
-            let newDiv = document.createElement('div')
-            newDiv.classList.add('chartMenuTile')
-            let image = document.createElement('img')
-            image.classList.add('chartMenuTileImage')
-            image.setAttribute('src', data[i].image)
-            let title = document.createElement('div')
-            title.classList.add('chartMenuTileTitle')
-            title.innerText = data[i].name
-            link.appendChild(image)
-            link.appendChild(title)
-            newDiv.appendChild(link)
-            content.appendChild(newDiv)
-
-        }
-    })
-    .catch(error => {
-        console.error('Error fetching JSON:', error);
-    });
+    fetch('navbar/navbar.html')
+        .then(response => response.text())
+        .then(data => {
+            navbarContainer.innerHTML = data
+        })
+        .catch(error => console.log("Error fetching navbar", error));
+    fetch('chartTile/chartTile.html')
+        .then(response => response.text())
+        .then(data => {
+            insideContainer.innerHTML = data;
+        })
+        .catch(error => console.error('Error fetching navbar:', error));
+});
