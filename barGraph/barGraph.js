@@ -1,5 +1,9 @@
+function chartDivFunc(){
+  return document.getElementById("chartDiv")
+}
+
 function barGraph() {
-  const insideContainer = document.getElementById('insideContainer');
+  let insideContainer = document.getElementById('insideContainer');
   fetch('../barGraph/barGraph.html')
     .then(response => response.text())
     .then(data => {
@@ -8,16 +12,21 @@ function barGraph() {
   fetch('../formComponent/formComponent.html')
     .then(response => response.text())
     .then(data => {
+      data=data.split("<!--  -->")
       if (document.getElementById('formContent')) {
         let formContent = document.getElementById('formContent')
-        formContent.innerHTML = data;
+        formContent.innerHTML = data[0];
+        let form2=document.createElement("div")
+        form2.setAttribute("id","form2")
+        form2.innerHTML=data[1];
+        insideContainer.appendChild(form2)
       }
     })
 }
 
 function createBarGraph(value) {
   am5.ready(function () {
-    var data = value.fileContent
+    var data = value.data
     // Create root element
     // https://www.amcharts.com/docs/v5/getting-started/#Root_element
     var root = am5.Root.new("chartDiv");
@@ -66,7 +75,7 @@ function createBarGraph(value) {
 
     var xAxis = chart.xAxes.push(am5xy.CategoryAxis.new(root, {
       maxDeviation: 0.3,
-      categoryField: "Country",
+      categoryField: value.xAxis,
       renderer: xRenderer,
       tooltip: am5.Tooltip.new(root, {})
     }));
@@ -86,11 +95,11 @@ function createBarGraph(value) {
       name: "Series 1",
       xAxis: xAxis,
       yAxis: yAxis,
-      valueYField: "Value",
+      valueYField: value.yAxis,
       sequencedInterpolation: true,
-      categoryXField: "Country",
+      categoryXField: value.xAxis,
       tooltip: am5.Tooltip.new(root, {
-        labelText: "{yAxis}"
+        labelText: `{${value.yAxis}}`
       })
     }));
 

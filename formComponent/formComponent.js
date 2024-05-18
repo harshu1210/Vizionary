@@ -1,3 +1,20 @@
+let fileContent = '';
+let csvFile = false;
+let xAxisContent = yAxisContent = ''
+
+function displayForm() {
+    let form = formFunc();
+    form.style.display = "flex";
+}
+
+function hideForm() {
+    let form = formFunc();
+    form.style.display = "none";
+}
+
+function formFunc() {
+    return document.getElementById('form2');
+}
 
 function fileInputFunc() {
     return document.getElementById('fileUpload');
@@ -18,10 +35,6 @@ function yAxisFunc() {
 function triggerFileUpload() {
     document.getElementById('fileUpload').click();
 }
-
-let fileContent = '';
-let csvFile = false;
-let xAxisContent = yAxisContent = ''
 
 function displayFileName() {
     var fileInput = fileInputFunc();
@@ -93,8 +106,18 @@ function formSubmit2() {
         window.alert("X-axis Parameter is required")
     } else if (yAxisContent.length < 1) {
         window.alert("Y-axis Parameter is required")
-    } else {
-        let sharedData = { "fileContent": csvArray, "xAxisContent": xAxisContent, "yAxisContent": yAxisContent };
+    } else if ((xAxisContent.toLowerCase() in csvArray[0]) != true) {
+        window.alert("X-axis Parameter is not pressent in file")
+    } else if ((yAxisContent.toLowerCase() in csvArray[0]) != true) {
+        window.alert("Y-axis Parameter is not pressent in file")
+    }
+    else {
+        let close = document.getElementById("close")
+        close.disabled = false;
+        let sharedData = { "data": csvArray, "xAxis": xAxisContent.toLowerCase(), "yAxis": yAxisContent.toLowerCase() };
+        hideForm()
+        let chartDiv = chartDivFunc();
+        chartDiv.style.visibility = "visible";
         createBarGraph(sharedData)
     }
 }
@@ -109,10 +132,10 @@ function graphicalObject() {
             if (content.length === headers.length) {
                 let csvObject = {};
                 for (let j = 0; j < headers.length; j++) {
-                    if (headers[j] == yAxisContent) {
-                        csvObject[headers[j]] = parseInt(content[j], 10);
+                    if (headers[j].toLowerCase() == yAxisContent.toLowerCase()) {
+                        csvObject[headers[j].toLowerCase()] = parseInt(content[j], 10);
                     } else {
-                        csvObject[headers[j]] = content[j];
+                        csvObject[headers[j].toLowerCase()] = content[j];
                     }
 
                 }
